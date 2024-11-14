@@ -10,3 +10,15 @@ print(myData)
 l1 = [3,45,8,2,1,67,0]
 l1.sort()  # sort list asc order
 print(l1)
+l1.reverse()  # sort list asc order
+print(l1)
+
+l1.insert(2,232) # index, value
+print(l1)
+
+l1.pop(3) # that index value will be pop
+print(l1)
+
+l1.remove(67) # that value will be remove
+print(l1)
+
