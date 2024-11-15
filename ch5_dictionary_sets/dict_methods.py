@@ -22,3 +22,6 @@ print(a['age'])
 #diff between both
 # if given key is not list then it print None. ex: a.get('age3') 
 # if given key is not list then it print error. ex: a['age3'] 
+
+a.update({"age":25,'Married':False})
+print(a)
