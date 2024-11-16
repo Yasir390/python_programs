@@ -12,3 +12,7 @@ a.remove(7)
 print(a)
 
 
+b = {} # now this is dictionary . 
+c = set() # this is set
+d = {1,45,34,5,7,3,6,7,8,7,7,"hello"} # this is set.
+# when set is empty and { }, then it represent as dictionary. so , empty set will be, k= set()
